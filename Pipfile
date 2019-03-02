@@ -7,8 +7,8 @@ verify_ssl = true
 pyling = "*"
 
 [packages]
-django = "==2.1.5"
+django = "==2.1.6"
 gunicorn = "==19.9.0"
 
 [requires]
-python_version = "3.6"
+python_version = "3.7.1"
